@@ -1,0 +1,19 @@
+{
+  "name": "nightwatch-example",
+  "version": "1.0.0",
+  "description": "## Guide https://nightwatchjs.org/guide/using-nightwatch/writing-tests.html",
+  "main": "nightwatch.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chromedriver": "^89.0.0",
+    "nightwatch": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "",
+  "license": "ISC"
+}
